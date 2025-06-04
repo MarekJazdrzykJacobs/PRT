@@ -1,0 +1,345 @@
+2024-08-30 11:48:02 - INFO - ---------------------------------------
+2024-08-30 11:48:02 - INFO - Start the process of refreshing data...
+2024-08-30 11:51:20 - INFO - ---------------------------------------
+2024-08-30 11:51:20 - INFO - Start the process of refreshing data...
+2024-08-30 11:53:19 - INFO - ---------------------------------------
+2024-08-30 11:53:19 - INFO - Start the process of refreshing data...
+2024-08-30 11:53:19 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2024-08-30 11:54:23 - INFO - ---------------------------------------
+2024-08-30 11:54:23 - INFO - Start the process of refreshing data...
+2024-08-30 11:54:32 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-08-30 11:56:07 - INFO - Json files were successfully pulled from sharepoint
+2024-08-30 11:57:32 - CRITICAL - ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'DeltaSummaryBookedHours'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'DeltaSummaryBookedHours'. (207)")
+2024-08-30 11:58:23 - INFO - ---------------------------------------
+2024-08-30 11:58:23 - INFO - Start the process of refreshing data...
+2024-08-30 11:58:33 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-08-30 12:00:06 - INFO - Json files were successfully pulled from sharepoint
+2024-08-30 12:08:26 - INFO - Table 'UserTable' updated
+2024-08-30 12:08:26 - INFO - Table 'PrtProjectsTable' updated
+2024-08-30 12:08:26 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-08-30 12:08:26 - INFO - Table 'UpdatesInfo' updated
+2024-08-30 12:08:26 - INFO - Process accomplished!
+2024-08-30 12:08:26 - INFO - ---------------------------------------
+2024-09-09 07:00:29 - INFO - ---------------------------------------
+2024-09-09 07:00:29 - INFO - Start the process of refreshing data...
+2024-09-09 07:00:29 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2024-09-09 09:44:08 - INFO - ---------------------------------------
+2024-09-09 09:44:08 - INFO - Start the process of refreshing data...
+2024-09-09 09:44:17 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-09 09:46:00 - INFO - Json files were successfully pulled from sharepoint
+2024-09-09 13:32:42 - INFO - ---------------------------------------
+2024-09-09 13:32:42 - INFO - Start the process of refreshing data...
+2024-09-09 13:32:51 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-09 13:34:29 - INFO - Json files were successfully pulled from sharepoint
+2024-09-09 13:42:22 - INFO - ---------------------------------------
+2024-09-09 13:42:22 - INFO - Start the process of refreshing data...
+2024-09-09 13:42:36 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-09 13:44:06 - INFO - Json files were successfully pulled from sharepoint
+2024-09-09 13:45:39 - CRITICAL - ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'DeltaSummaryBookedHours'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'DeltaSummaryBookedHours'. (207)")
+2024-09-09 13:46:25 - INFO - ---------------------------------------
+2024-09-09 13:46:25 - INFO - Start the process of refreshing data...
+2024-09-09 13:46:35 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-09 13:48:07 - INFO - Json files were successfully pulled from sharepoint
+2024-09-09 13:56:23 - INFO - Table 'UserTable' updated
+2024-09-09 13:56:23 - INFO - Table 'PrtProjectsTable' updated
+2024-09-09 13:56:23 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-09-09 13:56:23 - INFO - Table 'UpdatesInfo' updated
+2024-09-09 13:56:23 - INFO - Process accomplished!
+2024-09-09 13:56:23 - INFO - ---------------------------------------
+2024-09-16 07:24:03 - INFO - ---------------------------------------
+2024-09-16 07:24:03 - INFO - Start the process of refreshing data...
+2024-09-16 07:24:16 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-16 07:25:53 - INFO - Json files were successfully pulled from sharepoint
+2024-09-16 07:34:15 - INFO - Table 'UserTable' updated
+2024-09-16 07:34:15 - INFO - Table 'PrtProjectsTable' updated
+2024-09-16 07:34:15 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-09-16 07:34:15 - INFO - Table 'UpdatesInfo' updated
+2024-09-16 07:34:15 - INFO - Process accomplished!
+2024-09-16 07:34:15 - INFO - ---------------------------------------
+2024-09-23 07:00:30 - INFO - ---------------------------------------
+2024-09-23 07:00:30 - INFO - Start the process of refreshing data...
+2024-09-23 07:00:30 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2024-09-23 08:06:56 - INFO - ---------------------------------------
+2024-09-23 08:06:56 - INFO - Start the process of refreshing data...
+2024-09-23 08:07:07 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-23 08:08:41 - INFO - Json files were successfully pulled from sharepoint
+2024-09-23 08:17:10 - INFO - Table 'UserTable' updated
+2024-09-23 08:17:10 - INFO - Table 'PrtProjectsTable' updated
+2024-09-23 08:17:10 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-09-23 08:17:10 - INFO - Table 'UpdatesInfo' updated
+2024-09-23 08:17:10 - INFO - Process accomplished!
+2024-09-23 08:17:10 - INFO - ---------------------------------------
+2024-09-30 07:57:01 - INFO - ---------------------------------------
+2024-09-30 07:57:01 - INFO - Start the process of refreshing data...
+2024-09-30 07:57:31 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-09-30 07:59:11 - INFO - Json files were successfully pulled from sharepoint
+2024-09-30 08:07:20 - INFO - Table 'UserTable' updated
+2024-09-30 08:07:20 - INFO - Table 'PrtProjectsTable' updated
+2024-09-30 08:07:20 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-09-30 08:07:20 - INFO - Table 'UpdatesInfo' updated
+2024-09-30 08:07:20 - INFO - Process accomplished!
+2024-09-30 08:07:20 - INFO - ---------------------------------------
+2024-10-07 07:55:04 - INFO - ---------------------------------------
+2024-10-07 07:55:04 - INFO - Start the process of refreshing data...
+2024-10-07 07:55:15 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-10-07 07:56:50 - INFO - Json files were successfully pulled from sharepoint
+2024-10-07 08:04:34 - INFO - Table 'UserTable' updated
+2024-10-07 08:04:34 - INFO - Table 'PrtProjectsTable' updated
+2024-10-07 08:04:34 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-10-07 08:04:34 - INFO - Table 'UpdatesInfo' updated
+2024-10-07 08:04:34 - INFO - Process accomplished!
+2024-10-07 08:04:34 - INFO - ---------------------------------------
+2024-10-14 07:31:34 - INFO - ---------------------------------------
+2024-10-14 07:31:34 - INFO - Start the process of refreshing data...
+2024-10-14 07:31:42 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-10-14 07:33:29 - INFO - Json files were successfully pulled from sharepoint
+2024-10-14 07:41:14 - INFO - Table 'UserTable' updated
+2024-10-14 07:41:14 - INFO - Table 'PrtProjectsTable' updated
+2024-10-14 07:41:14 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-10-14 07:41:14 - INFO - Table 'UpdatesInfo' updated
+2024-10-14 07:41:14 - INFO - Process accomplished!
+2024-10-14 07:41:14 - INFO - ---------------------------------------
+2024-10-21 08:02:43 - INFO - ---------------------------------------
+2024-10-21 08:02:43 - INFO - Start the process of refreshing data...
+2024-10-21 08:02:51 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-10-21 08:04:33 - INFO - Json files were successfully pulled from sharepoint
+2024-10-21 08:12:45 - INFO - Table 'UserTable' updated
+2024-10-21 08:12:45 - INFO - Table 'PrtProjectsTable' updated
+2024-10-21 08:12:45 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-10-21 08:12:45 - INFO - Table 'UpdatesInfo' updated
+2024-10-21 08:12:45 - INFO - Process accomplished!
+2024-10-21 08:12:45 - INFO - ---------------------------------------
+2024-10-28 07:00:23 - INFO - ---------------------------------------
+2024-10-28 07:00:23 - INFO - Start the process of refreshing data...
+2024-10-28 07:00:33 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-10-28 07:02:43 - CRITICAL - Json files can not be pulled. Sharepoint is not responding.
+2024-10-28 07:33:32 - INFO - ---------------------------------------
+2024-10-28 07:33:32 - INFO - Start the process of refreshing data...
+2024-10-28 07:33:42 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-10-28 07:35:22 - INFO - Json files were successfully pulled from sharepoint
+2024-10-28 07:43:12 - INFO - Table 'UserTable' updated
+2024-10-28 07:43:12 - INFO - Table 'PrtProjectsTable' updated
+2024-10-28 07:43:12 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-10-28 07:43:12 - INFO - Table 'UpdatesInfo' updated
+2024-10-28 07:43:12 - INFO - Process accomplished!
+2024-10-28 07:43:12 - INFO - ---------------------------------------
+2024-11-04 07:00:23 - INFO - ---------------------------------------
+2024-11-04 07:00:23 - INFO - Start the process of refreshing data...
+2024-11-04 07:00:32 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-11-04 07:02:20 - INFO - Json files were successfully pulled from sharepoint
+2024-11-04 07:10:05 - INFO - Table 'UserTable' updated
+2024-11-04 07:10:05 - INFO - Table 'PrtProjectsTable' updated
+2024-11-04 07:10:05 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-11-04 07:10:05 - INFO - Table 'UpdatesInfo' updated
+2024-11-04 07:10:05 - INFO - Process accomplished!
+2024-11-04 07:10:05 - INFO - ---------------------------------------
+2024-11-11 07:00:24 - INFO - ---------------------------------------
+2024-11-11 07:00:24 - INFO - Start the process of refreshing data...
+2024-11-11 07:00:35 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-11-11 07:02:26 - INFO - Json files were successfully pulled from sharepoint
+2024-11-11 07:10:16 - INFO - Table 'UserTable' updated
+2024-11-11 07:10:16 - INFO - Table 'PrtProjectsTable' updated
+2024-11-11 07:10:16 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-11-11 07:10:16 - INFO - Table 'UpdatesInfo' updated
+2024-11-11 07:10:16 - INFO - Process accomplished!
+2024-11-11 07:10:16 - INFO - ---------------------------------------
+2024-12-09 07:00:23 - INFO - ---------------------------------------
+2024-12-09 07:00:23 - INFO - Start the process of refreshing data...
+2024-12-09 07:00:31 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-12-09 07:02:14 - INFO - Json files were successfully pulled from sharepoint
+2024-12-09 07:02:28 - CRITICAL - ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_UserTable'. Cannot insert duplicate key in object 'dbo.UserTable'. The duplicate key value is (karol.baluszynski@jacobs.com). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+2024-12-16 07:00:30 - INFO - ---------------------------------------
+2024-12-16 07:00:30 - INFO - Start the process of refreshing data...
+2024-12-16 07:00:39 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2024-12-16 07:02:26 - INFO - Json files were successfully pulled from sharepoint
+2024-12-16 07:11:37 - INFO - Table 'UserTable' updated
+2024-12-16 07:11:37 - INFO - Table 'PrtProjectsTable' updated
+2024-12-16 07:11:37 - INFO - Table 'PrtProjectsDetailsTable' updated
+2024-12-16 07:11:37 - INFO - Table 'UpdatesInfo' updated
+2024-12-16 07:11:37 - INFO - Process accomplished!
+2024-12-16 07:11:37 - INFO - ---------------------------------------
+2025-01-13 07:00:26 - INFO - ---------------------------------------
+2025-01-13 07:00:26 - INFO - Start the process of refreshing data...
+2025-01-13 07:00:35 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-01-13 07:02:25 - INFO - Json files were successfully pulled from sharepoint
+2025-01-13 07:10:09 - INFO - Table 'UserTable' updated
+2025-01-13 07:10:09 - INFO - Table 'PrtProjectsTable' updated
+2025-01-13 07:10:09 - INFO - Table 'PrtProjectsDetailsTable' updated
+2025-01-13 07:10:09 - INFO - Table 'UpdatesInfo' updated
+2025-01-13 07:10:09 - INFO - Process accomplished!
+2025-01-13 07:10:09 - INFO - ---------------------------------------
+2025-01-20 07:00:25 - INFO - ---------------------------------------
+2025-01-20 07:00:25 - INFO - Start the process of refreshing data...
+2025-01-20 07:00:25 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-01-23 10:47:52 - INFO - ---------------------------------------
+2025-01-23 10:47:52 - INFO - Start the process of refreshing data...
+2025-01-23 10:47:52 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-01-23 10:50:11 - INFO - ---------------------------------------
+2025-01-23 10:50:11 - INFO - Start the process of refreshing data...
+2025-01-23 10:50:28 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-01-23 10:52:11 - INFO - Json files were successfully pulled from sharepoint
+2025-01-23 11:00:19 - INFO - Table 'UserTable' updated
+2025-01-23 11:00:19 - INFO - Table 'PrtProjectsTable' updated
+2025-01-23 11:00:19 - INFO - Table 'PrtProjectsDetailsTable' updated
+2025-01-23 11:00:19 - INFO - Table 'UpdatesInfo' updated
+2025-01-23 11:00:19 - INFO - Process accomplished!
+2025-01-23 11:00:19 - INFO - ---------------------------------------
+2025-01-27 07:00:29 - INFO - ---------------------------------------
+2025-01-27 07:00:29 - INFO - Start the process of refreshing data...
+2025-01-27 07:00:29 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-03 07:00:25 - INFO - ---------------------------------------
+2025-02-03 07:00:25 - INFO - Start the process of refreshing data...
+2025-02-03 07:00:35 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-03 07:02:20 - INFO - Json files were successfully pulled from sharepoint
+2025-02-03 07:10:28 - INFO - Table 'UserTable' updated
+2025-02-03 07:10:28 - INFO - Table 'PrtProjectsTable' updated
+2025-02-03 07:10:28 - INFO - Table 'PrtProjectsDetailsTable' updated
+2025-02-03 07:10:28 - INFO - Table 'UpdatesInfo' updated
+2025-02-03 07:10:28 - INFO - Process accomplished!
+2025-02-03 07:10:28 - INFO - ---------------------------------------
+2025-02-03 10:17:57 - INFO - ---------------------------------------
+2025-02-03 10:17:57 - INFO - Start the process of refreshing data...
+2025-02-03 10:18:08 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-03 10:25:06 - INFO - Json files were successfully pulled from sharepoint
+2025-02-03 10:33:22 - INFO - ---------------------------------------
+2025-02-03 10:33:22 - INFO - Start the process of refreshing data...
+2025-02-03 10:33:34 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-03 10:35:17 - INFO - Json files were successfully pulled from sharepoint
+2025-02-03 11:06:46 - INFO - ---------------------------------------
+2025-02-03 11:06:46 - INFO - Start the process of refreshing data...
+2025-02-03 11:06:56 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-03 11:08:46 - INFO - Json files were successfully pulled from sharepoint
+2025-02-07 08:53:03 - INFO - ---------------------------------------
+2025-02-07 08:53:03 - INFO - Start the process of refreshing data...
+2025-02-07 08:53:03 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 08:53:53 - INFO - ---------------------------------------
+2025-02-07 08:53:53 - INFO - Start the process of refreshing data...
+2025-02-07 08:53:53 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 08:54:12 - INFO - ---------------------------------------
+2025-02-07 08:54:12 - INFO - Start the process of refreshing data...
+2025-02-07 08:54:12 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 08:56:45 - INFO - ---------------------------------------
+2025-02-07 08:56:45 - INFO - Start the process of refreshing data...
+2025-02-07 08:57:23 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 08:58:53 - INFO - ---------------------------------------
+2025-02-07 08:58:53 - INFO - Start the process of refreshing data...
+2025-02-07 08:59:03 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 08:59:12 - INFO - ---------------------------------------
+2025-02-07 08:59:12 - INFO - Start the process of refreshing data...
+2025-02-07 09:00:32 - INFO - ---------------------------------------
+2025-02-07 09:00:32 - INFO - Start the process of refreshing data...
+2025-02-07 09:01:41 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 09:03:51 - INFO - Json files were successfully pulled from sharepoint
+2025-02-07 09:07:44 - INFO - ---------------------------------------
+2025-02-07 09:07:44 - INFO - Start the process of refreshing data...
+2025-02-07 09:08:04 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-07 09:09:55 - INFO - Json files were successfully pulled from sharepoint
+2025-02-10 07:00:27 - INFO - ---------------------------------------
+2025-02-10 07:00:27 - INFO - Start the process of refreshing data...
+2025-02-10 07:00:38 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-10 07:02:26 - INFO - Json files were successfully pulled from sharepoint
+2025-02-12 10:52:53 - INFO - ---------------------------------------
+2025-02-12 10:52:53 - INFO - Start the process of refreshing data...
+2025-02-12 10:52:53 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-12 10:53:43 - INFO - ---------------------------------------
+2025-02-12 10:53:43 - INFO - Start the process of refreshing data...
+2025-02-12 10:54:39 - INFO - ---------------------------------------
+2025-02-12 10:54:39 - INFO - Start the process of refreshing data...
+2025-02-12 10:55:01 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-12 10:56:47 - INFO - Json files were successfully pulled from sharepoint
+2025-02-12 10:56:47 - CRITICAL - Excel file 'C:\Users\JAZDRZM\PycharmProjects\PRT_updater2\FY24 BH act by sektor_10022025_updated PU Controlling name.xlsx' do not exist!
+2025-02-12 10:57:52 - INFO - ---------------------------------------
+2025-02-12 10:57:52 - INFO - Start the process of refreshing data...
+2025-02-12 10:58:08 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-12 10:58:46 - INFO - ---------------------------------------
+2025-02-12 10:58:46 - INFO - Start the process of refreshing data...
+2025-02-12 10:59:25 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-12 11:18:26 - INFO - Json files were successfully pulled from sharepoint
+2025-02-12 11:18:46 - CRITICAL - Excel file 'C:\Users\JAZDRZM\PycharmProjects\PRT_updater2\FY24 BH act by sektor_10022025_updated PU Controlling name.xlsx' do not exist!
+2025-02-12 11:21:54 - INFO - ---------------------------------------
+2025-02-12 11:21:54 - INFO - Start the process of refreshing data...
+2025-02-12 11:22:16 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-12 11:23:56 - INFO - Json files were successfully pulled from sharepoint
+2025-02-12 11:34:36 - CRITICAL - 'Group'
+2025-02-14 09:31:34 - INFO - ---------------------------------------
+2025-02-14 09:31:34 - INFO - Start the process of refreshing data...
+2025-02-14 09:34:25 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-14 09:36:01 - INFO - Json files were successfully pulled from sharepoint
+2025-02-14 10:16:11 - CRITICAL - 'Project Number'
+2025-02-14 10:19:27 - INFO - ---------------------------------------
+2025-02-14 10:19:27 - INFO - Start the process of refreshing data...
+2025-02-14 10:19:50 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-14 10:19:53 - CRITICAL - name 'json_all' is not defined
+2025-02-14 10:21:05 - INFO - ---------------------------------------
+2025-02-14 10:21:05 - INFO - Start the process of refreshing data...
+2025-02-14 10:22:31 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-14 12:41:52 - CRITICAL - Unable to allocate 136. GiB for an array with shape (18234266226,) and data type int64
+2025-02-14 12:43:44 - INFO - ---------------------------------------
+2025-02-14 12:43:44 - INFO - Start the process of refreshing data...
+2025-02-14 12:43:56 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-14 12:47:45 - CRITICAL - Unable to allocate 136. GiB for an array with shape (18234266226,) and data type int64
+2025-02-17 07:00:26 - INFO - ---------------------------------------
+2025-02-17 07:00:26 - INFO - Start the process of refreshing data...
+2025-02-17 07:00:26 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-19 12:48:09 - INFO - ---------------------------------------
+2025-02-19 12:48:09 - INFO - Start the process of refreshing data...
+2025-02-19 12:48:45 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-19 13:20:49 - CRITICAL - Unable to allocate 142. GiB for an array with shape (19026246152,) and data type int64
+2025-02-19 13:42:39 - INFO - ---------------------------------------
+2025-02-19 13:42:39 - INFO - Start the process of refreshing data...
+2025-02-19 13:42:56 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-19 14:01:20 - CRITICAL - Unable to allocate 142. GiB for an array with shape (19026246152,) and data type int64
+2025-02-19 14:48:11 - INFO - ---------------------------------------
+2025-02-19 14:48:11 - INFO - Start the process of refreshing data...
+2025-02-19 14:48:25 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-19 15:39:14 - INFO - ---------------------------------------
+2025-02-19 15:39:14 - INFO - Start the process of refreshing data...
+2025-02-19 15:39:30 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-20 08:52:50 - INFO - ---------------------------------------
+2025-02-20 08:52:50 - INFO - Start the process of refreshing data...
+2025-02-20 09:44:17 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-20 09:49:25 - INFO - ---------------------------------------
+2025-02-20 09:49:25 - INFO - Start the process of refreshing data...
+2025-02-20 09:49:41 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-21 08:17:01 - INFO - ---------------------------------------
+2025-02-21 08:17:01 - INFO - Start the process of refreshing data...
+2025-02-21 08:17:19 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-21 10:27:28 - INFO - ---------------------------------------
+2025-02-21 10:27:28 - INFO - Start the process of refreshing data...
+2025-02-21 10:27:42 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-21 10:39:46 - INFO - ---------------------------------------
+2025-02-21 10:39:46 - INFO - Start the process of refreshing data...
+2025-02-21 10:40:46 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-24 07:00:36 - INFO - ---------------------------------------
+2025-02-24 07:00:36 - INFO - Start the process of refreshing data...
+2025-02-24 07:00:53 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-25 10:52:41 - INFO - ---------------------------------------
+2025-02-25 10:52:41 - INFO - Start the process of refreshing data...
+2025-02-25 10:52:58 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-02-28 09:32:57 - INFO - ---------------------------------------
+2025-02-28 09:32:57 - INFO - Start the process of refreshing data...
+2025-02-28 09:32:57 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-02-28 09:46:52 - INFO - ---------------------------------------
+2025-02-28 09:46:52 - INFO - Start the process of refreshing data...
+2025-02-28 09:47:10 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-03-03 07:00:24 - INFO - ---------------------------------------
+2025-03-03 07:00:24 - INFO - Start the process of refreshing data...
+2025-03-03 07:00:33 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-03-03 07:06:29 - CRITICAL - "['SectorLead'] not in index"
+2025-03-10 07:00:33 - INFO - ---------------------------------------
+2025-03-10 07:00:33 - INFO - Start the process of refreshing data...
+2025-03-10 07:00:33 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-03-13 11:44:06 - INFO - ---------------------------------------
+2025-03-13 11:44:06 - INFO - Start the process of refreshing data...
+2025-03-13 11:44:24 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-03-17 07:00:34 - INFO - ---------------------------------------
+2025-03-17 07:00:34 - INFO - Start the process of refreshing data...
+2025-03-17 07:00:34 - CRITICAL - None .csv with project data was found for this day in directory 'C:\Users\JAZDRZM\Downloads'
+2025-03-24 07:00:39 - INFO - ---------------------------------------
+2025-03-24 07:00:39 - INFO - Start the process of refreshing data...
+2025-03-24 07:00:51 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-03-24 07:10:00 - CRITICAL - "['SectorLead'] not in index"
+2025-04-07 07:00:32 - INFO - ---------------------------------------
+2025-04-07 07:00:32 - INFO - Start the process of refreshing data...
+2025-04-07 07:00:41 - INFO - .csv files with project data were successfully pull from 'C:\Users\JAZDRZM\Downloads'
+2025-04-07 07:10:43 - CRITICAL - "['SectorLead'] not in index"

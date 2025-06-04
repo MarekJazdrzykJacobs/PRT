@@ -1,0 +1,30 @@
+2025-06-02 07:27:59,391 - INFO - Projects Scrapper is starting
+2025-06-02 07:28:05,136 - INFO - driver created
+2025-06-02 07:28:13,358 - INFO - C:\Users\JAZDRZM\Downloads\Projects_2025_6_2_part1.csv
+2025-06-02 07:28:13,358 - INFO - Starting downloading projects
+2025-06-02 07:28:47,692 - INFO - JA Project has been Filtered
+2025-06-02 07:28:47,692 - INFO - downloading process has started
+2025-06-02 07:30:54,861 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AEFE5F41D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/24d68c61488e9113d8f1325fd11f21d2/window
+2025-06-02 07:30:56,902 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AEFF5E0410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/24d68c61488e9113d8f1325fd11f21d2/window
+2025-06-02 07:30:58,933 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AEFF5E0F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/24d68c61488e9113d8f1325fd11f21d2/window
+2025-06-02 07:31:00,967 - INFO - DONE
+2025-06-02 07:31:00,967 - INFO - Projects Scrapper is starting
+2025-06-02 07:31:04,202 - INFO - driver created
+2025-06-02 07:31:17,965 - INFO - C:\Users\JAZDRZM\Downloads\Projects_2025_6_2_part2.csv
+2025-06-02 07:31:17,965 - INFO - Starting downloading projects
+2025-06-02 07:32:08,613 - INFO - JA Project has been Filtered
+2025-06-02 07:32:08,613 - INFO - downloading process has started
+2025-06-02 07:38:20,928 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AEFF5E3050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bcc5cef762b089962845d2e414f4caf3/window
+2025-06-02 07:38:22,983 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE8004CB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bcc5cef762b089962845d2e414f4caf3/window
+2025-06-02 07:38:25,034 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE8004D5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bcc5cef762b089962845d2e414f4caf3/window
+2025-06-02 07:38:27,092 - INFO - DONE
+2025-06-02 07:38:27,092 - INFO - Projects Scrapper is starting
+2025-06-02 07:38:30,233 - INFO - driver created
+2025-06-02 07:38:38,686 - INFO - C:\Users\JAZDRZM\Downloads\Projects_2025_6_2_part3.csv
+2025-06-02 07:38:38,686 - INFO - Starting downloading projects
+2025-06-02 07:39:27,884 - INFO - JA Project has been Filtered
+2025-06-02 07:39:27,884 - INFO - downloading process has started
+2025-06-02 07:42:23,224 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE8004F290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bd42330719ab08ef93c46dfaf0f6486e/window
+2025-06-02 07:42:25,258 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE808DCFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bd42330719ab08ef93c46dfaf0f6486e/window
+2025-06-02 07:42:27,283 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE808DDA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bd42330719ab08ef93c46dfaf0f6486e/window
+2025-06-02 07:42:29,325 - INFO - DONE

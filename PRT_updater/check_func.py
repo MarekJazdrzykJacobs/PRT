@@ -1,0 +1,3 @@
+from run_projects import copy_final_prt_files
+
+copy_final_prt_files()
